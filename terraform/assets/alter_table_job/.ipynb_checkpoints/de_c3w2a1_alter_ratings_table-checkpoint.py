@@ -87,8 +87,8 @@ def add_column(database_name, table_name, column_name, column_type):
 # Execute Function
 
 # Add a new column: ratingtimestamp as string
-column_name = args["ratingtimestamp"]  # "ratingtimestamp"
-column_type = args["string"]  # "string"
+column_name = "ratingtimestamp"  # "ratingtimestamp"
+column_type = "string"  # "string"
 add_column(database_name, table_name, column_name, column_type)
 
 job.commit()
