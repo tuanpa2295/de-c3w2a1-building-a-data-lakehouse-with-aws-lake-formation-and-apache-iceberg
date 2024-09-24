@@ -1,0 +1,56 @@
+nohup: ignoring input
+[I 2024-09-24 07:28:39.359 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-09-24 07:28:39.367 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-09-24 07:28:39.378 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-09-24 07:28:39.381 ServerApp] Writing Jupyter server cookie secret to /home/ec2-user/.local/share/jupyter/runtime/jupyter_cookie_secret
+[I 2024-09-24 07:28:40.036 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-09-24 07:28:40.084 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-09-24 07:28:40.089 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-09-24 07:28:40.098 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-09-24 07:28:40.100 LabApp] JupyterLab extension loaded from /home/ec2-user/environment/jupyterlab-venv/lib64/python3.9/site-packages/jupyterlab
+[I 2024-09-24 07:28:40.101 LabApp] JupyterLab application directory is /home/ec2-user/environment/jupyterlab-venv/share/jupyter/lab
+[I 2024-09-24 07:28:40.101 LabApp] Extension Manager is 'pypi'.
+[I 2024-09-24 07:28:40.126 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-09-24 07:28:40.127 ServerApp] Serving notebooks from local directory: /home/ec2-user/environment
+[I 2024-09-24 07:28:40.127 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-09-24 07:28:40.127 ServerApp] http://ip-10-0-1-97.ec2.internal:8888/lab?token=8379f6bba28768784486f7aff23e1f1cdc952cac7ea9ffd1
+[I 2024-09-24 07:28:40.127 ServerApp]     http://127.0.0.1:8888/lab?token=8379f6bba28768784486f7aff23e1f1cdc952cac7ea9ffd1
+[I 2024-09-24 07:28:40.127 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 2024-09-24 07:28:40.134 ServerApp] No web browser found: Error('could not locate runnable browser').
+[C 2024-09-24 07:28:40.135 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/ec2-user/.local/share/jupyter/runtime/jpserver-3138-open.html
+    Or copy and paste one of these URLs:
+        http://ip-10-0-1-97.ec2.internal:8888/lab?token=8379f6bba28768784486f7aff23e1f1cdc952cac7ea9ffd1
+        http://127.0.0.1:8888/lab?token=8379f6bba28768784486f7aff23e1f1cdc952cac7ea9ffd1
+[I 2024-09-24 07:28:43.220 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[I 2024-09-24 07:31:07.285 LabApp] Build is up to date
+[I 2024-09-24 07:31:10.598 ServerApp] Writing notebook-signing key to /home/ec2-user/.local/share/jupyter/notebook_secret
+[W 2024-09-24 07:31:10.600 ServerApp] Notebook C3_W2_Assignment.ipynb is not trusted
+[I 2024-09-24 07:31:12.801 ServerApp] Kernel started: 127a47bd-23cf-4c39-9fea-95163ea3fc42
+[I 2024-09-24 07:31:14.182 ServerApp] Connecting to kernel 127a47bd-23cf-4c39-9fea-95163ea3fc42.
+[I 2024-09-24 07:31:14.691 ServerApp] Connecting to kernel 127a47bd-23cf-4c39-9fea-95163ea3fc42.
+[I 2024-09-24 07:31:15.195 ServerApp] Connecting to kernel 127a47bd-23cf-4c39-9fea-95163ea3fc42.
+[I 2024-09-24 07:33:12.215 ServerApp] Saving file at /C3_W2_Assignment.ipynb
+[I 2024-09-24 07:39:16.793 ServerApp] Saving file at /C3_W2_Assignment.ipynb
+[I 2024-09-24 07:41:19.194 ServerApp] Saving file at /C3_W2_Assignment.ipynb
+[I 2024-09-24 07:43:20.323 ServerApp] Saving file at /C3_W2_Assignment.ipynb
+[I 2024-09-24 07:46:46.291 ServerApp] Saving file at /terraform/modules/landing_etl/glue.tf
+[I 2024-09-24 07:53:23.726 ServerApp] Saving file at /C3_W2_Assignment.ipynb
+[I 2024-09-24 07:55:24.801 ServerApp] Saving file at /C3_W2_Assignment.ipynb
+[I 2024-09-24 07:59:28.797 ServerApp] Saving file at /terraform/assets/transform_etl_jobs/de_c3w2a1_batch_transform.py
+[I 2024-09-24 07:59:29.824 ServerApp] Saving file at /terraform/assets/transform_etl_jobs/de_c3w2a1_batch_transform.py
+[I 2024-09-24 08:01:30.827 ServerApp] Saving file at /terraform/assets/transform_etl_jobs/de_c3w2a1_batch_transform.py
+[I 2024-09-24 08:03:26.317 ServerApp] Saving file at /terraform/assets/transform_etl_jobs/de_c3w2a1_batch_transform.py
+[I 2024-09-24 08:03:49.974 ServerApp] Saving file at /terraform/assets/transform_etl_jobs/de_c3w2a1_batch_transform.py
+[I 2024-09-24 08:17:40.058 ServerApp] Saving file at /C3_W2_Assignment.ipynb
+[I 2024-09-24 08:23:34.404 ServerApp] Saving file at /terraform/assets/transform_etl_jobs/de_c3w2a1_ratings_to_iceberg.py
+[I 2024-09-24 08:26:10.865 ServerApp] Saving file at /terraform/assets/transform_etl_jobs/de_c3w2a1_json_transform.py
+[I 2024-09-24 08:26:15.943 ServerApp] Saving file at /terraform/assets/transform_etl_jobs/de_c3w2a1_json_transform.py
+[I 2024-09-24 08:51:39.591 ServerApp] Saving file at /terraform/assets/transform_etl_jobs/de_c3w2a1_batch_transform.py
+[I 2024-09-24 08:52:11.161 ServerApp] Saving file at /terraform/assets/transform_etl_jobs/de_c3w2a1_batch_transform.py
+[I 2024-09-24 08:53:13.107 ServerApp] Saving file at /terraform/assets/transform_etl_jobs/de_c3w2a1_batch_transform.py
+[I 2024-09-24 09:00:02.784 ServerApp] Saving file at /terraform/assets/transform_etl_jobs/de_c3w2a1_batch_transform.py
+[I 2024-09-24 09:06:42.380 ServerApp] Saving file at /C3_W2_Assignment.ipynb
+[I 2024-09-24 09:07:27.931 ServerApp] Saving file at /terraform/assets/alter_table_job/de_c3w2a1_alter_ratings_table.py
