@@ -73,3 +73,4 @@ nohup: ignoring input
 [I 2024-09-25 03:43:09.947 ServerApp] Saving file at /C3_W2_Assignment.ipynb
 [I 2024-09-25 03:45:12.576 ServerApp] Saving file at /C3_W2_Assignment.ipynb
 [W 2024-09-25 03:46:24.736 ServerApp] 404 GET /webpages/login.html (@95.214.55.43) 10.26ms referer=None
+[I 2024-09-25 03:59:17.008 ServerApp] Saving file at /C3_W2_Assignment.ipynb
