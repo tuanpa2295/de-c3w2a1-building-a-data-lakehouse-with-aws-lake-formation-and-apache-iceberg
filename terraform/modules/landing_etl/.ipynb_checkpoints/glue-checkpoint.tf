@@ -2,7 +2,7 @@ resource "aws_glue_connection" "rds_connection" {
   name = "${var.project}-rds-connection"
 
   connection_properties = {
-    JDBC_CONNECTION_URL = "jdbc:mysql://de-c3w2a1-rds.crq808kaiw8u.us-east-1.rds.amazonaws.com:3306/classicmodels"
+    JDBC_CONNECTION_URL = "jdbc:mysql://de-c3w2a1-rds.c70ca2uguv3s.us-east-1.rds.amazonaws.com:3306/classicmodels"
     USERNAME            = var.username
     PASSWORD            = var.password
   }

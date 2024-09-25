@@ -26,7 +26,7 @@ source_ratings_json = glueContext.create_dynamic_frame.from_options(
     format="json",
     connection_options={
         # "paths": [f"s3://{source_data_lake_bucket}/ratings_with_timestamp/"],
-        "paths": [f"s3://{source_data_lake_bucket}/ratings/"],
+        "paths": [f"s3://{source_data_lake_bucket}/ratings_with_timestamp/"],
         "recurse": True,
     },
     transformation_ctx="source_ratings_json",
